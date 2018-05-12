@@ -1,0 +1,32 @@
+_repo: The-Trial-of-Theodore-Parker--13-For-the--Misdemeanor--of-a-Speech-in-Faneuil-Hall-against-Ki__31298
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parker, Theodore
+    alias: Blodgett, Levi
+    birthdate: 1810
+    deathdate: 1860
+    gutenberg_agent_id: '7088'
+    url: http://www.gutenberg.org/2009/agents/7088
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Parker
+description: ''
+gutenberg_issued: '2010-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31298'
+  lccn: '10034375'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Fugitive slave law (1850)'
+- !lcsh 'Antislavery movements -- Massachusetts -- Boston'
+- !lcc 'KF'
+title: "The Trial of Theodore Parker\r\nFor the \"Misdemeanor\" of a Speech in Faneuil\
+  \ Hall against Kidnapping, before the Circuit Court of the United States, at Boston,\
+  \ April 3, 1855, with the Defence"
+url: http://www.gutenberg.org/ebooks/31298
